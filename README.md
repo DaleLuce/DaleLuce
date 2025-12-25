@@ -27,12 +27,13 @@ I've also helped build robust portfolio management tools and displayed rich data
 
 ## Buxly
 
-For the last year I've also been working on a personal app that is almost ready for launch. It's a calendar based personal finance app which gives users the ability to see their finances in a calendar view and helps them build budgets, find recurring transactions, and project their liquid cash at a given future date. 
-<img width="391" height="785" alt="Screenshot 2025-12-24 at 10 39 21 PM" src="https://github.com/user-attachments/assets/2c79a8d6-e474-4849-89a3-1994fcd857e0" />
+For the last year I've also been working on a personal app that is almost ready for launch. It's a calendar based personal finance app which gives users the ability to see their finances in a calendar view and helps them build budgets, find recurring transactions, and project their liquid cash at a given future date.   
 
-<img width="399" height="797" alt="Screenshot 2025-12-24 at 10 40 30 PM" src="https://github.com/user-attachments/assets/6a48e344-5fa0-4f19-8bf4-066682f02429" />
-<img width="384" height="780" alt="Screenshot 2025-12-24 at 10 40 12 PM" src="https://github.com/user-attachments/assets/84058e3b-9895-4d3a-9501-c398ad54af5a" />
-<img width="360" height="472" alt="Screenshot 2025-12-24 at 10 40 01 PM" src="https://github.com/user-attachments/assets/ee462298-3f9b-4aed-a3f0-363164bc243f" />
-<img width="397" height="787" alt="Screenshot 2025-12-24 at 10 39 37 PM" src="https://github.com/user-attachments/assets/d3225290-2fe4-4d97-b658-04179bc96745" />
-<img width="369" height="399" alt="Screenshot 2025-12-24 at 10 39 30 PM" src="https://github.com/user-attachments/assets/be71b43d-87bd-46de-98eb-f7aa2b812fc9" />
+
+<img width="391" height="785" alt="Screenshot 2025-12-24 at 10 39 21 PM" src="https://github.com/user-attachments/assets/2c79a8d6-e474-4849-89a3-1994fcd857e0" />  
+<img width="399" height="797" alt="Screenshot 2025-12-24 at 10 40 30 PM" src="https://github.com/user-attachments/assets/6a48e344-5fa0-4f19-8bf4-066682f02429" />  
+<img width="384" height="780" alt="Screenshot 2025-12-24 at 10 40 12 PM" src="https://github.com/user-attachments/assets/84058e3b-9895-4d3a-9501-c398ad54af5a" />  
+<img width="360" height="472" alt="Screenshot 2025-12-24 at 10 40 01 PM" src="https://github.com/user-attachments/assets/ee462298-3f9b-4aed-a3f0-363164bc243f" />  
+<img width="397" height="787" alt="Screenshot 2025-12-24 at 10 39 37 PM" src="https://github.com/user-attachments/assets/d3225290-2fe4-4d97-b658-04179bc96745" />  
+<img width="369" height="399" alt="Screenshot 2025-12-24 at 10 39 30 PM" src="https://github.com/user-attachments/assets/be71b43d-87bd-46de-98eb-f7aa2b812fc9" />  
 
